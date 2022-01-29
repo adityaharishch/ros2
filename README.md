@@ -1,8 +1,9 @@
 Documentation is at https://docs.ros.org
 
-Apple silicon MacOS(Monterey) M1 build (271 packages are fully passing the build with this updated ros2.repos)\
+Apple silicon MacOS(Monterey) M1 build (271 packages are fully passing the build with this updated ros2.repos)
 
-Build Instructions:\
+Build Instructions:
+
 1. Install the necessary libraries and dependencies with brew from ROS2 Galactic MacOS Documentation(https://docs.ros.org)
 2. mkdir ~/ros2_galactic
 3. mkdir ~/ros2_galactic/src
@@ -14,8 +15,8 @@ Build Instructions:\
 8. . ~/ros2_galactic/install/setup.zsh
 
 9. ros2 run demo_nodes_cpp talker in one terminal. 
-10. ros2 run demo_nodes_py listener in another terminal.\
+10. ros2 run demo_nodes_py listener in another terminal.
 
-you should see the helloworld example running.\
+you should see the helloworld example running.
 
 Build Instructions video: https://www.youtube.com/watch?v=A7O1k2A_0iA
