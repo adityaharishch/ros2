@@ -1,10 +1,9 @@
-Documentation is at https://docs.ros.org
 
 Apple silicon MacOS(Monterey) M1 build (271 packages are fully passing the build with this updated ros2.repos)
 
 Build Instructions:
 
-1. Install the necessary libraries and dependencies with brew from ROS2 Galactic MacOS Documentation(https://docs.ros.org)
+1. Install the necessary libraries and dependencies with brew from (https://docs.ros.org) for MacOS
 2. mkdir ~/ros2_galactic
 3. mkdir ~/ros2_galactic/src
 4. cd ..
